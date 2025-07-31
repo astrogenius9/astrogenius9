@@ -20,15 +20,15 @@ I’m a curious and quick learner who loves to tinker with any project that come
 
 ## 🌟 Featured Projects
 
-- **[News Headline Sentiment Analysis](#)**  
+- **[News Headline Sentiment Analysis](https://github.com/astrogenius9/News-Headlines-Sentiment-Analysis)**  
   _Analyze the mood of the world—one headline at a time!_  
   Uses NLP and sentiment analysis to gauge public sentiment from daily news feeds.
 
-- **[AI Driven Green Credit Score System](#)**  
+- **[AI Driven Green Credit Score System](https://github.com/astrogenius9/AI-Driven-Green-Credit-Score-System)**  
   _Empowering sustainability with smart technology._  
   An AI-powered system to assess and incentivize eco-friendly behavior.
 
-- **[job_insight](#)**  
+- **[job_insight](https://github.com/astrogenius9/job_insight)**  
   _Uncover trends and insights in the job market._  
   A data-driven platform to analyze job postings, skills demand, and career opportunities.
 
